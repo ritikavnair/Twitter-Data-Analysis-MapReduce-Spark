@@ -1,0 +1,11 @@
+/target/
+.classpath
+.settings/
+.project
+spark-warehouse/
+input/
+output/
+output-Final/
+output*/
+centroids*/
+counts/

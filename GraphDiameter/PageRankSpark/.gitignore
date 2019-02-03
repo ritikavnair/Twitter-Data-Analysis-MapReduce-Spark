@@ -1,0 +1,12 @@
+target/
+.classpath
+.settings/
+.project
+spark-warehouse/
+input/
+output/
+.idea/
+*.iml
+/target/
+/.metadata/
+*.jar

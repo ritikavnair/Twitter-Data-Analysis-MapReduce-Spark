@@ -1,0 +1,8 @@
+/target/
+.classpath
+.settings/
+.project
+spark-warehouse/
+input/
+output/
+output-Triangle/
